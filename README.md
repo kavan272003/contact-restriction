@@ -28,3 +28,5 @@ Key Technical Takeaways
 Avoid Global Rules for Restrictions: Global rules apply to everyone; unchecking "Global" allows for group-specific logic.
 
 Additive Permissions: If a user can see everything, check if they belong to a default Odoo group (like Sales / All Documents) that provides a [(1, '=', 1)] override.
+
+youtube link : https://youtu.be/DfLykEuxWZg
